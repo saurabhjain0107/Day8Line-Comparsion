@@ -6,6 +6,11 @@ import static java.lang.Double.compare;
 
 public class LineComparsion {
     public static void main(String[] args) {
+
+        lineComparison();
+
+    }
+    public static void lineComparison(){
         Scanner scanner = new Scanner(System.in);
         float x1,y1,x2,y2;
 
